@@ -10,16 +10,16 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Tum Hi Ho", filePath: "songs/1.mp3", coverPath: "1.jpg"},
-    {songName: "Dil Toh Bacha Hai", filePath: "songs/2.mp3", coverPath: "2.jpg"},
-    {songName: "Dilli Ki Ladki", filePath: "songs/3.mp3", coverPath: "3.jpg"},
-    {songName: "Bella-ciao", filePath: "songs/4.mp3", coverPath: "4.jpg"},
-    {songName: "Hymn For The Weekend", filePath: "songs/5.mp3", coverPath: "5.jpg"},
-    {songName: "Without-me", filePath: "songs/6.mp3", coverPath: "6.jpg"},
-    {songName: "Wishlist", filePath: "songs/7.mp3", coverPath: "7.jpg"},
-    {songName: "Hey Mama", filePath: "songs/8.mp3", coverPath: "8.jpg"},
-    {songName: "Worth it", filePath: "songs/9.mp3", coverPath: "9.jpg"},
-     {songName: "ILY-surf", filePath: "songs/10.mp3", coverPath: "10.jpg"},
+    {songName: "Tum Hi Ho", filePath: "11.mp3", coverPath: "1.jpg"},
+    {songName: "Dil Toh Bacha Hai", filePath: "22.mp3", coverPath: "2.jpg"},
+    {songName: "Dilli Ki Ladki", filePath: "33.mp3", coverPath: "3.jpg"},
+    {songName: "Bella-ciao", filePath: "44.mp3", coverPath: "4.jpg"},
+    {songName: "Hymn For The Weekend", filePath: "55.mp3", coverPath: "5.jpg"},
+    {songName: "Without-me", filePath: "66.mp3", coverPath: "6.jpg"},
+    {songName: "Wishlist", filePath: "77.mp3", coverPath: "7.jpg"},
+    {songName: "Hey Mama", filePath: "88.mp3", coverPath: "8.jpg"},
+    {songName: "Worth it", filePath: "99.mp3", coverPath: "9.jpg"},
+     {songName: "ILY-surf", filePath: "100.mp3", coverPath: "10.jpg"},
 
 ]
 
